@@ -1,5 +1,5 @@
 # Calculadora-IMC
 
-CSS 48.6%<br>
-HTML 26.0%<br>
-JS 25.4%
+JS 48.6%
+CSS 26.0%<br>
+HTML 25.4%<br>
